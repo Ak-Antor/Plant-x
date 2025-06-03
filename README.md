@@ -67,7 +67,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Contact
 
-Your Name - [ak.antor.dev@gmail.com](mailto:ak.antor.dev@gmail.com)
+Your Name - [ak.antor.dev@gmail.com](mailto:antorremeni@gmail.com)
 
 Project Link: [https://github.com/ak-antor/Plant-x](https://www.google.com/search?q=https://github.com/ak-antor/Plant-x)
 
